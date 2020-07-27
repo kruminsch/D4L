@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2019
+** INTERNSHIP, 2020
 ** GetNextLine
 ** File description:
 ** GetNextLine.h
